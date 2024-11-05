@@ -1,0 +1,5 @@
+# do not want to include all the .exe files in my repo, as it can be generated again
+*.exe
+
+# not including the below folder
+.vscode/
